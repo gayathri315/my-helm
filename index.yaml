@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gayi:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-11T10:46:34.335192862Z"
+    description: A Helm chart for Kubernetes
+    digest: bfed9bc0da4cd5afdf487247b6199921ed865bc43f938e6a6772ec87f375690d
+    name: gayi
+    type: application
+    urls:
+    - gayi-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-11T10:46:34.334503525Z"
