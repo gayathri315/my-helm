@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bomc-odn:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-11-23T07:09:22.281009875Z"
+    description: A Helm chart for Kubernetes
+    digest: fa205ab2533a48324516bc865cb85e1bcccaa8d03e0544ab26a21ffa347cc614
+    name: bomc-odn
+    type: application
+    urls:
+    - bomc-odn-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-11-23T07:09:22.28020064Z"
